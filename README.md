@@ -1,6 +1,6 @@
 # Notion MCP Server
 
-A fork of the original MCP Server for the Notion API, enabling Claude to interact with Notion workspaces.
+A fork of @suekou's MCP Server for the Notion API, enabling Claude to interact with Notion workspaces.
 
 ## Setup
 
